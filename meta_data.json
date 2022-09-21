@@ -1,0 +1,12 @@
+{
+    "categories": {
+        "0": "data (things)"
+    },
+    "demo_page": "https://atomicfusion-plugin-demo.bubbleapps.io/version-test",
+    "description": "Dummy / Mock data provided by Atomic Fusion. This plugin is used for supplying tons of dummy data for you to leverage while you're building your apps.  Many elements in Bubble require dynamic data - Repeating groups, charts, graphs, tables, etc.\n\nThis plugin provides mock data sets for you to use so you can build and design your app prior to having real / live data.\n\n1. This plugin can be used without the Atomic Fusion service and for any data needs.\n\n2. This plugin pairs with the Atomic Fusion service.  When you copy / paste elements from the AF library some of them have dynamic data.  This plugin will maintain the data structure until you change the data source to your own.",
+    "image": "//s3.amazonaws.com/appforest_uf/f1663421609854x322711413661735740/atomic-fusion-logo.png",
+    "license": "open_source",
+    "link": "https://atomicfusion.io",
+    "name": "Atomic Fusion Dummy Data (Free)",
+    "plugin_instructions": "Install this plugin to use with elements that Atomic Fusion provides.  Some elements like repeating groups, graphs, charts, etc. require \"Dynamic Data\".  \n\nTo supply dummy data to a Repeating Group, Chart or other element, simply use the 'Get data from an external API' option after clicking on the blue 'Dynamic Data' button. Here you can pick the type of data and the corresponding API call that this plugin offers.\n\nThis plugin will make API calls to populate data that is required in these types of elements.  \n\nOnce you've tested your element, you can go ahead and remove the dynamic API query and use your own database queries to render your own data.  You can uninstall this plugin prior to deploying your app to production as well.\n\nYou can also use this plugin outside of the Atomic Fusion service / extension and simply use it to generate mock data for any project."
+}
